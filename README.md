@@ -1,10 +1,4 @@
-# example1 
-<<<<<<< HEAD
-# exampledkhflskjfsdhflksjhfldskjfhdslf
-## Tofsdfdkfpic 1 >> READ.md
-cat README.md
+#example1
+Oh hi topic1
+33333333
 
-
-echo ## Topic 1
-=======
->>>>>>> refs/remotes/origin/main
